@@ -19,11 +19,11 @@
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
- <div style="display: flex;">
+<p align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yoohmoon&show_icons=true" />
    
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yoohmoon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="400px"/>
-</div>
+</p>
 
 <br/>
 **Expand to view**
