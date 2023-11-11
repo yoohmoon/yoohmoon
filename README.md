@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm a frontend developer who loves building something cool!
+I’m the most productive when I see the direct connection between the work that I put in and the actual value I create for the users. 
+It gives me the long-term motivation to go further into developing.
 
 <h2> My tech stack 📚 </h2>
 
